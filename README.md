@@ -4,7 +4,7 @@
 
 <strong><font face = "Microsoft YaHei" size = 4 color = #0ec9ec ><strong>学校：</strong>东北大学</font> <font face = "Microsoft YaHei" size = 1 color = #0ec9ec >（985 211 双一流）</font></strong> &emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;<font  size = 3 color = #0ec9ec ><strong>专业：</strong>计算机科学与技术</font>&emsp;&emsp;&emsp;&emsp;&emsp;**绩点**：4.0（31/206）
 
-**邮箱**：neu_congxing_344@163.com  &emsp; &emsp;&thinsp; **电话**：17562036369&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**状态**：23届本科毕业生
+**邮箱**：congxingcs@163.com  &emsp; &emsp;&thinsp; **电话**：17562036369&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**状态**：23届本科毕业生
 
 ----
 
